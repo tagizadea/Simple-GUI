@@ -30,3 +30,10 @@
 *.exe
 *.out
 *.app
+
+#SDL2
+include/SDL2/
+bin/
+lib/
+main.cpp
+Makefile
